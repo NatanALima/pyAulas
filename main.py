@@ -1,0 +1,1 @@
+print('Somente o arquivo principal do projeto :)')
